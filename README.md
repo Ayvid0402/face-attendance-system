@@ -666,3 +666,6 @@ If face distance > threshold:
 | plotly | Interactive charts |
 ## 🎬 Demo Video
 👉 [Click here to watch demo] https://drive.google.com/file/d/1OYnGkvMTQ6MAiWsPocsgcSQyfmQywzP7/view?usp=sharing
+
+**Author:** Divya Maria Manuel
+**Project Type:** Computer Vision Internship 
