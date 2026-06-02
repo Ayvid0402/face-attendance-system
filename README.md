@@ -664,3 +664,5 @@ If face distance > threshold:
 | pandas | CSV handling |
 | streamlit | Web dashboard |
 | plotly | Interactive charts |
+## 🎬 Demo Video
+👉 [Click here to watch demo] https://drive.google.com/file/d/1OYnGkvMTQ6MAiWsPocsgcSQyfmQywzP7/view?usp=sharing
