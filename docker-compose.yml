@@ -1,0 +1,17 @@
+# docker-compose.yml
+# Easy way to run our Docker container
+# Just run: docker-compose up
+
+version: '3.8'
+
+services:
+  face_attendance:
+    build: .
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./known_faces:/app/known_faces
+      - ./unknown_faces:/app/unknown_faces
+      - ./attendance:/app/attendance
+    environment:
+      - PYTHONUNBUFFERED=1

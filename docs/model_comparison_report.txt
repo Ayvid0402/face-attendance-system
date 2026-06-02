@@ -1,0 +1,14 @@
+FACE DETECTION MODEL COMPARISON REPORT
+============================================================
+
+Haar Cascade:
+  Faces Found  : 2
+  Avg Time     : 151.83ms
+  FPS          : 6.6
+
+HOG + dlib:
+  Faces Found  : 1
+  Avg Time     : 328.62ms
+  FPS          : 3.0
+
+Conclusion: HOG + dlib chosen for better accuracy
